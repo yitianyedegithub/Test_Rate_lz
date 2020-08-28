@@ -1,0 +1,17 @@
+{
+    "freeTime": 3,
+    "discountFlag":true,
+    "arriveTimes": "20200228 181400",
+    "leaveTimes": "20200228 191600",
+    "chargeRateList": [
+        {
+            "chargeType": 1,
+            "chargeBegin": "0800",
+            "chargeEnd": "0759",
+            "firstPeriodRate": 15,
+            "firstPeriodLen": 60,
+            "nextPeriodRate": 10,
+            "nextPeriodLen": 30
+        }
+    ]
+}

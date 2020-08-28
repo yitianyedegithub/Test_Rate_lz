@@ -1,0 +1,51 @@
+ {
+            "inTime": "2020-07-30 19:15:00",
+            "outTime": "2020-07-30 20:15:00",
+            "dateTypeMap": {
+                "20200710": 1,
+                "20200711": 1
+            },
+            "reSplitFirst": false,
+            "freeLen": 0,
+            "rateMap": {
+                "1": [
+                    {
+                        "chargeBegin": "0000",
+                        "dateType": 1,
+                        "nextPeriodLen": 30,
+                        "firstPeriodRate": 1500,
+                        "firstPeriodLen": 60,
+                        "chargeEnd": "2359",
+                        "chargeType": 1,
+                        "chargeAmount": null,
+                        "nextPeriodRate": 1000
+                    }
+                ],
+                "2": [
+                    {
+                        "chargeBegin": "0000",
+                        "dateType": 1,
+                        "nextPeriodLen": 30,
+                        "firstPeriodRate": 1500,
+                        "firstPeriodLen": 60,
+                        "chargeEnd": "2359",
+                        "chargeType": 1,
+                        "chargeAmount": null,
+                        "nextPeriodRate": 1000
+                    }
+                ],
+                "3": [
+                    {
+                        "chargeBegin": "0000",
+                        "dateType": 1,
+                        "nextPeriodLen": 30,
+                        "firstPeriodRate": 1500,
+                        "firstPeriodLen": 60,
+                        "chargeEnd": "2359",
+                        "chargeType": 1,
+                        "chargeAmount": null,
+                        "nextPeriodRate": 1000
+                    }
+                ]
+            }
+        }

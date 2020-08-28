@@ -1,0 +1,85 @@
+ {
+            "inTime": "2020-07-10 20:30:00",
+            "outTime": "2020-07-10 22:00:00",
+            "dateTypeMap": {
+                "20200710": 1,
+                "20200711": 1,
+                "20200712": 1
+            },
+            "reSplitFirst": false,
+            "freeLen": 0,
+            "rateMap": {
+                "1": [
+                    {
+                        "chargeBegin": "0800",
+                        "dateType": 1,
+                        "nextPeriodLen": 30,
+                        "firstPeriodRate": 1500,
+                        "firstPeriodLen": 60,
+                        "chargeEnd": "2200",
+                        "chargeType": 1,
+                        "chargeAmount": null,
+                        "nextPeriodRate": 1000
+                    },
+                    {
+                        "chargeBegin": "2200",
+                        "dateType": 1,
+                        "nextPeriodLen": 0,
+                        "firstPeriodRate": 1000,
+                        "firstPeriodLen": 0,
+                        "chargeEnd": "0730",
+                        "chargeType": 2,
+                        "chargeAmount": 1000,
+                        "nextPeriodRate": 0
+                    }
+                ],
+                "2": [
+                    {
+                        "chargeBegin": "0730",
+                        "dateType": 2,
+                        "nextPeriodLen": 30,
+                        "firstPeriodRate": 1500,
+                        "firstPeriodLen": 60,
+                        "chargeEnd": "2200",
+                        "chargeType": 1,
+                        "chargeAmount": null,
+                        "nextPeriodRate": 1000
+                    },
+                    {
+                        "chargeBegin": "2200",
+                        "dateType": 2,
+                        "nextPeriodLen": 0,
+                        "firstPeriodRate": 1000,
+                        "firstPeriodLen": 0,
+                        "chargeEnd": "0730",
+                        "chargeType": 2,
+                        "chargeAmount": 1000,
+                        "nextPeriodRate": 0
+                    }
+                ],
+                "3": [
+                    {
+                        "chargeBegin": "0730",
+                        "dateType": 3,
+                        "nextPeriodLen": 30,
+                        "firstPeriodRate": 1500,
+                        "firstPeriodLen": 60,
+                        "chargeEnd": "2200",
+                        "chargeType": 1,
+                        "chargeAmount": null,
+                        "nextPeriodRate": 1000
+                    },
+                    {
+                        "chargeBegin": "2200",
+                        "dateType": 3,
+                        "nextPeriodLen": 0,
+                        "firstPeriodRate": 1000,
+                        "firstPeriodLen": 0,
+                        "chargeEnd": "0730",
+                        "chargeType": 2,
+                        "chargeAmount": 1000,
+                        "nextPeriodRate": 0
+                    }
+                ]
+            }
+        }
